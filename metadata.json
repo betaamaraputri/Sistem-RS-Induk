@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Agen Cerdas Rumah Sakit INDUK",
+  "description": "Aplikasi orkestrasi layanan rumah sakit berbasis AI yang menggunakan Agen Pusat untuk merutekan tugas ke sub-agen spesialis (Manajemen Pasien, Jadwal, Rekam Medis, Keuangan).",
+  "requestFramePermissions": []
+}
